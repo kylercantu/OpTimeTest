@@ -66,9 +66,7 @@ public class Consent implements ActionListener{
         if(e.getSource()==yesBtn){
             frame.dispose();
            
-           /* 
-               Need to call a class to open next window
-           */
+               //Opens the homepage of the OpTime applicationo
                FirstPage fp = new FirstPage();
             
             /*
