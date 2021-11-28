@@ -1,0 +1,4 @@
+Chrome, 85, 23
+Steam, 240, 120
+Word, 120, 54
+Photoshop, 320, 87
