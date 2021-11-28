@@ -39,9 +39,9 @@ public class FirstPage implements ActionListener{
      
      panel.setLayout(null);
            
-//     box g = new box();
-//     g.setBounds(1300, 250, 500, 250);
-//     panel.add(g);
+     box g = new box();
+     g.setBounds(1300, 250, 500, 250);
+     panel.add(g);
      
      UserLabel = new JLabel("OpTime");
      UserLabel.setBounds(750, 10, 500, 150);
