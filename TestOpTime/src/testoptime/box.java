@@ -23,7 +23,6 @@ public class box extends JPanel implements ActionListener{
 
     private static String[] optionStrings = {"Day", "Week", "Month", "Year" };
     private static JComboBox optionList = new JComboBox(optionStrings);
-    private static String[] columnNames = {"Program Name", "Total Time", "Average Time"};
     
     box() throws IOException{
            
