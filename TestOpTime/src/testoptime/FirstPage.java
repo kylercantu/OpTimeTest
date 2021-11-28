@@ -58,7 +58,7 @@ public class FirstPage implements ActionListener{
      
      button = new JButton("Browse Local Files");
      button.setBounds(875, 880, 150, 50);
-//     button.addActionListener(new OpTime());
+     button.addActionListener(this);
      panel.add(button);
      
      timeStats = new JLabel("Time Stats");
