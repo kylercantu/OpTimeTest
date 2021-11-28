@@ -1,5 +1,5 @@
 
-package optime;
+package testoptime;
 
 import java.awt.*;
 import java.awt.event.*;
